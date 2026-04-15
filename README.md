@@ -1,2 +1,2 @@
-# PINN_Data_Set
-Data set for different problems
+# PINN_Data_Set and CODE
+Data set and code for 1D Viscous Burgers equation
