@@ -12,7 +12,7 @@ import os
 # Download dataset
 # =====================
 if not os.path.exists('burgers_shock.mat'):
-    !wget -q https://raw.githubusercontent.com/ParamIntelligence/PINN_Data_Set/main/burgers_shock.mat
+    !wget -q https://raw.githubusercontent.com/ParamIntelligence/PINN_Codes/main/burgers_shock.mat
 
 # =====================
 # Device
