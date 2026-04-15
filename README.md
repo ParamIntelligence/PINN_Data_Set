@@ -1,2 +1,2 @@
-# PINN Data Set and CODE
+# PINN Code
 Data set and code for 1D Viscous Burgers equation
